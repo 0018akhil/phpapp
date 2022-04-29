@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Begin the game.</h1>
+    <h1>The game has begin and another one started</h1>
     <?php
         for($i = 0; $i<10; $i++){
     ?>
