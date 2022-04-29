@@ -7,14 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>The game has begin and another one started</h1>
-    <a href="./about.php">About us</a>
-    <?php
-        for($i = 0; $i<10; $i++){
-    ?>
-        <h1><?php echo $i; ?></h1>
-    <?php            
-        }
-    ?>
+    <h1>Display About Page</h1>
 </body>
 </html>
